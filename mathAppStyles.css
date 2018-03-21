@@ -1,0 +1,32 @@
+* {
+	border: 2px solid #dedede;
+	border-radius: 2px;
+	padding: 10px;
+	margin: 10px;
+}
+
+html {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	max-width: 600px;
+	font-family: sans-serif;
+	color: #333;
+}
+
+.real {
+	color: darkslategray;
+	border-color: darkseagreen;
+}
+
+.no_real {
+	color: darkslategray;
+	border-color: coral;
+}
+
+.invalid {
+	color: red;
+	border-color: firebrick;
+}
